@@ -1,3 +1,2 @@
-CALCULATOR
 
-    I Developed this project using HTML,CSS,JS
+    I HAVE DEVELOPED THIS PROJECT USING HTML,CSS,JS.
